@@ -7,7 +7,6 @@ joblib
 DateTime
 matplotlib
 seaborn
-IO
 streamlit
 db-sqlite3
 fastapi
