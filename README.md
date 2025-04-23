@@ -17,3 +17,6 @@ This project predicts car faults using an XGBoost model. It includes a Streamlit
 
 ## Deployment
 Deployed on Railway
+
+## Streamlit app
+https://web-production-f5c4f.up.railway.app/
