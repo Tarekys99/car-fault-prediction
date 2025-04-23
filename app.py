@@ -9,7 +9,7 @@ from datetime import datetime
 import uuid
 
 # تحديد عنوان الـ API (سيتم ضبطه لاحقًا على Railway)
-FASTAPI_URL = os.getenv("FASTAPI_URL", "https://car-fault-prediction-production.up.railway.app/predict/")
+FASTAPI_URL = os.getenv("FASTAPI_URL", ******")
 
 # Streamlit configuration
 st.set_page_config(
